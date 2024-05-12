@@ -1855,3 +1855,6 @@ form label {
 }
 
 /*# sourceMappingURL=style.css.map */
+.image {
+    margin-bottom: 20px; /* Add space before the sibling */
+}
